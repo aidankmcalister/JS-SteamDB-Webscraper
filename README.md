@@ -1,2 +1,3 @@
 # JS-SteamDB-Webscraper
-Scrapes the top 100 games on steam through SteamDB and displays them. (Absolutely no point because you can just go to SteamDb but idc)
+
+JS-SteamDB-Webscraper is a web scraping tool that extracts information about the top 100 games on Steam from SteamDB. It provides a simple way to gather and display this data. This project is written in JavaScript, making it easy to customize and extend as needed.
