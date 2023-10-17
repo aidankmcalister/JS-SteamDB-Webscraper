@@ -29,7 +29,7 @@ const getGames = async () => {
     return gameData;
   });
 
-  console.log(games);
+  console.log(games[0]);
 
   await browser.close();
 };
